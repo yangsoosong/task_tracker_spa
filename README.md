@@ -1,4 +1,10 @@
 # TaskTracker 3
+
+### Using React, create simple task tracker as single page application.
+
+You can access the application with following link
+https://tasks3.yangsoosong.com/
+
 Design Choices:
 We have two resources - user and task. User has_many tasks whereas user has to have a name. Tasks must hae name, desc and time(which is 15 interveral). We can complete task by clicking complete button on card. User's name appears when they login. You get error message when inputting wrong info about your account.
   
